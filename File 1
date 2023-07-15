@@ -1,11 +1,3 @@
 #!/bin/bash
 echo "Hi I am Shibnath Chakraborty"
-echo "we are learning github"
-echo "Sabka sath sabka vikash"
-echo "Add from new branch from visual studio"
-echo "today we are again learing on visual code"
-echo "me and prashant now working on it"
-echo "this is first step with branch-1"
-echo "this line we are going to check from branch-2"
-echo "this is we are adding from ubantu linux thriugh git bash"
-echo "today we are practice again the github"
+echo "this is branch2 from visual studio"
