@@ -1,3 +1,5 @@
 #!/bin/bash
 echo "Hi I am Shibnath Chakraborty"
+echo "this is branch1 from visual studio"
 echo "this is branch2 from visual studio"
+echo "issue resolved from vusual studio request"
