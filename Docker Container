@@ -1,0 +1,13 @@
+#ubantu image from ubantu
+FROM ubuntu:latest
+
+#Dockerfile maintainer
+
+MAINTAINER "shibnath9932@gmail.com"
+
+RUN apt update -y && apt install nginx -y
+
+#Port Expose
+
+EXPOSE 80
+~
